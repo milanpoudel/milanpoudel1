@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/milanpoudel1/static/css/main.ac98d574.chunk.css",
+    "main.js": "/milanpoudel1/static/js/main.4f937171.chunk.js",
+    "main.js.map": "/milanpoudel1/static/js/main.4f937171.chunk.js.map",
+    "runtime-main.js": "/milanpoudel1/static/js/runtime-main.fa9fa5d5.js",
+    "runtime-main.js.map": "/milanpoudel1/static/js/runtime-main.fa9fa5d5.js.map",
+    "static/js/2.e369c233.chunk.js": "/milanpoudel1/static/js/2.e369c233.chunk.js",
+    "static/js/2.e369c233.chunk.js.map": "/milanpoudel1/static/js/2.e369c233.chunk.js.map",
+    "index.html": "/milanpoudel1/index.html",
+    "precache-manifest.1e345986f95bb654c2142116cbba59d9.js": "/milanpoudel1/precache-manifest.1e345986f95bb654c2142116cbba59d9.js",
+    "service-worker.js": "/milanpoudel1/service-worker.js",
+    "static/css/main.ac98d574.chunk.css.map": "/milanpoudel1/static/css/main.ac98d574.chunk.css.map",
+    "static/js/2.e369c233.chunk.js.LICENSE": "/milanpoudel1/static/js/2.e369c233.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa9fa5d5.js",
+    "static/js/2.e369c233.chunk.js",
+    "static/css/main.ac98d574.chunk.css",
+    "static/js/main.4f937171.chunk.js"
+  ]
+}
